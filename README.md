@@ -1,2 +1,7 @@
 # kitaTransportBot
-Telegram Иot for quick notifications about available train or bus tickets
+
+**kitaTransportBot** is a modern telegram bot for nnotifying users about free transport tickets.
+
+![image](./images/scheme.jpg)
+
+
